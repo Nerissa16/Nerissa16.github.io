@@ -647,10 +647,10 @@ section.about-me-section.skills-col .about-me-box .personal-info {
 }
 .blog-section .blog-box.iso-call .blog-post {
   width: 360px;
-  margin: 15px 15px 70px;
+  margin: 15px 15px 15px;
 }
 .blog-section .blog-box .blog-post {
-  margin-bottom: 85px;
+  margin-bottom: 15px;
 }
 .blog-section .blog-box .blog-post .post-gallery a {
   display: inline-block;
